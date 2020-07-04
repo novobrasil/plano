@@ -17,6 +17,40 @@ O Brasil precisa de um plano de ação que dure muito mais de algums anos.
 Ações que são tomadas hoje, levarão tantos quanto 20, 30 ou 40 anos para que se possam ser concretizadas.
 Tempo suficiente para se educar e criar 2, 3 ou 4 gerações de novos cidadão ou cidadãs.
 
+- [Plano Novo Brasil](#plano-novo-brasil)
+  * [Perguntas Frequentes (FAQ)](#perguntas-frequentes-faq)
+  * [Ministérios](#ministérios)
+    + [1. CHEFE DA CASA CIVIL](#1-chefe-da-casa-civil)
+    + [2. JUSTIÇA E SEGURANÇA PÚBLICA](#2-justiça-e-segurança-pública)
+    + [3. DEFESA](#3-defesa)
+    + [4. RELAÇÕES EXTERIORES](#4-relações-exteriores)
+    + [5. ECONOMIA](#5-economia)
+    + [6. INFRAESTRUTURA](#6-infraestrutura)
+    + [7. AGRICULTURA, PECUÁRIA E ABASTECIMENTO](#7-agricultura-pecuária-e-abastecimento)
+    + [8. EDUCAÇÃO](#8-educação)
+    + [9. CIDADANIA](#9-cidadania)
+    + [10. SAÚDE, INTERINO](#10-saúde-interino)
+    + [11. MINAS E ENERGIA](#11-minas-e-energia)
+    + [12. COMUNICAÇÕES](#12-comunicações)
+    + [13. CIÊNCIA, TECNOLOGIA E INOVAÇÕES](#13-ciência-tecnologia-e-inovações)
+    + [14. MEIO AMBIENTE](#14-meio-ambiente)
+    + [15. TURISMO](#15-turismo)
+    + [16. DESENVOLVIMENTO REGIONAL](#16-desenvolvimento-regional)
+    + [17. CONTROLADORIA-GERAL DA UNIÃO](#17-controladoria-geral-da-união)
+    + [18. MULHER, DA FAMÍLIA E DOS DIREITOS HUMANOS](#18-mulher-da-família-e-dos-direitos-humanos)
+    + [19. CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA](#19-chefe-da-secretaria-geral-da-presidência-da-república)
+    + [20. CHEFE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA](#20-chefe-da-secretaria-de-governo-da-presidência-da-república)
+    + [21. CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA](#21-chefe-do-gabinete-de-segurança-institucional-da-presidência-da-república)
+    + [22. ADVOGADO-GERAL DA UNIÃO](#22-advogado-geral-da-união)
+    + [23. PRESIDENTE DO BANCO CENTRAL DO BRASIL](#23-presidente-do-banco-central-do-brasil)
+
+- O índice usado neste Markdown foi gerado por:
+  1. `git clone https://github.com/evandroforks/markdown-toc`
+  1. `cd markdown-toc`
+  1. `npm -g install`
+  1. `cd ../repository-root`
+  1. `markdown-toc README.MD`
+
 
 ## Perguntas Frequentes (FAQ)
 
@@ -42,6 +76,8 @@ Tempo suficiente para se educar e criar 2, 3 ou 4 gerações de novos cidadão o
    Para escrita os documentos utilizarão o formato [*Markdown*](http://translate.google.com.br/translate?hl=pt-BR&sl=en&u=https://github.com/commonmark/commonmark-web),
    e para simplificar a revisão do histórico,
    será utilizado a técnica de [*quebra de linha semântica*](http://translate.google.com.br/translate?hl=pt-BR&sl=en&u=https://github.com/sembr/specification).
+   Para facilitar a distribuição e visão geral do progresso,
+   todo este documento será escrito diretamente neste mesmo e único arquivo *README.md*.
 
 
 ## Ministérios
@@ -50,117 +86,117 @@ Seguindo a estrutura de [*organização dos ministérios*](https://www.gov.br/pl
 serão criados os arquivos a seguir para as específicas propostas.
 
 
-### CHEFE DA CASA CIVIL
+### 1. CHEFE DA CASA CIVIL
 
 
 
 
-### JUSTIÇA E SEGURANÇA PÚBLICA
+### 2. JUSTIÇA E SEGURANÇA PÚBLICA
 
 
 
 
-### DEFESA
+### 3. DEFESA
 
 
 
 
-### RELAÇÕES EXTERIORES
+### 4. RELAÇÕES EXTERIORES
 
 
 
 
-### ECONOMIA
+### 5. ECONOMIA
 
 
 
 
-### INFRAESTRUTURA
+### 6. INFRAESTRUTURA
 
 
 
 
-### AGRICULTURA, PECUÁRIA E ABASTECIMENTO
+### 7. AGRICULTURA, PECUÁRIA E ABASTECIMENTO
 
 
 
 
-### EDUCAÇÃO
+### 8. EDUCAÇÃO
 
 
 
 
-### CIDADANIA
+### 9. CIDADANIA
 
 
 
 
-### SAÚDE, INTERINO
+### 10. SAÚDE, INTERINO
 
 
 
 
-### MINAS E ENERGIA
+### 11. MINAS E ENERGIA
 
 
 
 
-### COMUNICAÇÕES
+### 12. COMUNICAÇÕES
 
 
 
 
-### CIÊNCIA, TECNOLOGIA E INOVAÇÕES
+### 13. CIÊNCIA, TECNOLOGIA E INOVAÇÕES
 
 
 
 
-### MEIO AMBIENTE
+### 14. MEIO AMBIENTE
 
 
 
 
-### TURISMO
+### 15. TURISMO
 
 
 
 
-### DESENVOLVIMENTO REGIONAL
+### 16. DESENVOLVIMENTO REGIONAL
 
 
 
 
-### CONTROLADORIA-GERAL DA UNIÃO
+### 17. CONTROLADORIA-GERAL DA UNIÃO
 
 
 
 
-### MULHER, DA FAMÍLIA E DOS DIREITOS HUMANOS
+### 18. MULHER, DA FAMÍLIA E DOS DIREITOS HUMANOS
 
 
 
 
-### CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA
+### 19. CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA
 
 
 
 
-### CHEFE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA
+### 20. CHEFE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA
 
 
 
 
-### CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA
+### 21. CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA
 
 
 
 
-### ADVOGADO-GERAL DA UNIÃO
+### 22. ADVOGADO-GERAL DA UNIÃO
 
 
 
 
-### PRESIDENTE DO BANCO CENTRAL DO BRASIL
+### 23. PRESIDENTE DO BANCO CENTRAL DO BRASIL
 
 
 
