@@ -1,3 +1,0 @@
-# Ministério DE ESTADO DE MINAS E ENERGIA
-
-

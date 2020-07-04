@@ -1,3 +1,0 @@
-# Ministério DE ESTADO DAS RELAÇÕES EXTERIORES
-
-

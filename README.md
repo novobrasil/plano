@@ -39,36 +39,128 @@ Tempo suficiente para se educar e criar 2, 3 ou 4 gerações de novos cidadão o
    propostas de governo,
    ações que devem e precisam ter tomadas ou discutidas.
 
+   Para escrita os documentos utilizarão o formato [*Markdown*](http://translate.google.com.br/translate?hl=pt-BR&sl=en&u=https://github.com/commonmark/commonmark-web),
+   e para simplificar a revisão do histórico,
+   será utilizado a técnica de [*quebra de linha semântica*](http://translate.google.com.br/translate?hl=pt-BR&sl=en&u=https://github.com/sembr/specification).
 
-## Estrutura
+
+## Ministérios
 
 Seguindo a estrutura de [*organização dos ministérios*](https://www.gov.br/planalto/pt-br/conheca-a-presidencia/ministros) da República Federativa do Brasil,
 serão criados os arquivos a seguir para as específicas propostas.
-Para escrita os documentos utilizarão o formato [*Markdown*](https://github.com/commonmark/commonmark-web),
-e para simplificar a revisão do histórico,
-será utilizado a técnica de [*quebra de linha semântica*](https://github.com/sembr/specification).
 
-1. [CHEFE DA CASA CIVIL](/Ministérios/CHEFE_DA_CASA_CIVIL/README.md)
-1. [JUSTIÇA E SEGURANÇA PÚBLICA](/Ministérios/JUSTICA_E_SEGURANCA_PUBLICA/README.md)
-1. [DEFESA](/Ministérios/DEFESA/README.md)
-1. [RELAÇÕES EXTERIORES](/Ministérios/RELACOES_EXTERIORES/README.md)
-1. [ECONOMIA](/Ministérios/ECONOMIA/README.md)
-1. [INFRAESTRUTURA](/Ministérios/INFRAESTRUTURA/README.md)
-1. [AGRICULTURA, PECUÁRIA E ABASTECIMENTO](/Ministérios/AGRICULTURA_PECUARIA_E_ABASTECIMENTO/README.md)
-1. [EDUCAÇÃO](/Ministérios/EDUCACAO/README.md)
-1. [CIDADANIA](/Ministérios/CIDADANIA/README.md)
-1. [SAÚDE, INTERINO](/Ministérios/SAUDE_INTERINO/README.md)
-1. [MINAS E ENERGIA](/Ministérios/MINAS_E_ENERGIA/README.md)
-1. [COMUNICAÇÕES](/Ministérios/COMUNICACOES/README.md)
-1. [CIÊNCIA, TECNOLOGIA E INOVAÇÕES](/Ministérios/CIENCIA_TECNOLOGIA_E_INOVACOES/README.md)
-1. [MEIO AMBIENTE](/Ministérios/MEIO_AMBIENTE/README.md)
-1. [TURISMO](/Ministérios/TURISMO/README.md)
-1. [DESENVOLVIMENTO REGIONAL](/Ministérios/DESENVOLVIMENTO_REGIONAL/README.md)
-1. [CONTROLADORIA-GERAL DA UNIÃO](/Ministérios/CONTROLADORIA_GERAL_DA_UNIAO/README.md)
-1. [MULHER, DA FAMÍLIA E DOS DIREITOS HUMANOS](/Ministérios/MULHER_DA_FAMILIA_E_DOS_DIREITOS_HUMANOS/README.md)
-1. [CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA](/Ministérios/CHEFE_DA_SECRETARIA_GERAL_DA_PRESIDENCIA_DA_REPUBLICA/README.md)
-1. [CHEFE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA](/Ministérios/CHEFE_DA_SECRETARIA_DE_GOVERNO_DA_PRESIDENCIA_DA_REPUBLICA/README.md)
-1. [CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA](/Ministérios/CHEFE_DO_GABINETE_DE_SEGURANCA_INSTITUCIONAL_DA_PRESIDENCIA_DA_REPUBLICA/README.md)
-1. [ADVOGADO-GERAL DA UNIÃO](/Ministérios/ADVOGADO_GERAL_DA_UNIAO/README.md)
-1. [PRESIDENTE DO BANCO CENTRAL DO BRASIL](/Ministérios/PRESIDENTE_DO_BANCO_CENTRAL_DO_BRASIL/README.md)
+
+### CHEFE DA CASA CIVIL
+
+
+
+
+### JUSTIÇA E SEGURANÇA PÚBLICA
+
+
+
+
+### DEFESA
+
+
+
+
+### RELAÇÕES EXTERIORES
+
+
+
+
+### ECONOMIA
+
+
+
+
+### INFRAESTRUTURA
+
+
+
+
+### AGRICULTURA, PECUÁRIA E ABASTECIMENTO
+
+
+
+
+### EDUCAÇÃO
+
+
+
+
+### CIDADANIA
+
+
+
+
+### SAÚDE, INTERINO
+
+
+
+
+### MINAS E ENERGIA
+
+
+
+
+### COMUNICAÇÕES
+
+
+
+
+### CIÊNCIA, TECNOLOGIA E INOVAÇÕES
+
+
+
+
+### MEIO AMBIENTE
+
+
+
+
+### TURISMO
+
+
+
+
+### DESENVOLVIMENTO REGIONAL
+
+
+
+
+### CONTROLADORIA-GERAL DA UNIÃO
+
+
+
+
+### MULHER, DA FAMÍLIA E DOS DIREITOS HUMANOS
+
+
+
+
+### CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA
+
+
+
+
+### CHEFE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA
+
+
+
+
+### CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA
+
+
+
+
+### ADVOGADO-GERAL DA UNIÃO
+
+
+
+
+### PRESIDENTE DO BANCO CENTRAL DO BRASIL
+
+
 
