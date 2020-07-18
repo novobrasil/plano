@@ -1,5 +1,8 @@
 # Plano Novo Brasil
 
+Criação de um plano de governo de longo prazo,
+cobrindo tudo o que se pode ser feito por cada governo que assume o poder de 4 em 4 anos.
+
 Quando um novo governo é eleito democraticamente para exercer a sua função de **servir a população**,
 ele tem um tempo muito curto para cumprir seu mandato (sim um período de 4 anos é muitíssimo curto).
 Portanto, tal governo não tem tempo suficiente para cumprir sua função e
@@ -66,6 +69,8 @@ Tempo suficiente para se educar e criar 2, 3 ou 4 gerações de novos cidadão o
    Já pensou em ser pago somente para ser quem você é?
 
 1. Como contribuir?
+
+   Veja primeiro [*CONTRIBUTORS*](CONTRIBUTORS).
 
    Qualquer um (no Brasil ou no Mundo) pode contribuir.
    Basta divulgar o trabalho ou criar novos *issues* ou *pull requests*,
@@ -199,4 +204,10 @@ serão criados os arquivos a seguir para as específicas propostas.
 ### 23. PRESIDENTE DO BANCO CENTRAL DO BRASIL
 
 
+
+
+
+## License
+
+Veja [*CONTRIBUTORS#License Cause*](CONTRIBUTORS).
 
