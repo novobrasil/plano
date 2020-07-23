@@ -98,7 +98,18 @@ serão criados os arquivos a seguir para as específicas propostas.
 
 ### 2. JUSTIÇA E SEGURANÇA PÚBLICA
 
+Políticas como colocar uma arma na mão de cada cidadão serão consideradas somente quando:
+1. 99% da população não for analfabeta analítica
+1. 99% da população viver em boas condições de saúde, saneamento básico e lazer.
 
+Tal decisão deve-se ao fato de que sem essas condições,
+qualquer pessoa tendo acesso a uma arma poderá e irá agir em brigas de bar,
+disputas sobre saneamento básico, alimentação, etc.
+Uma vez que essas condições forem compridas,
+a chance de uso excessivo da força, será muito reduzida.
+Podendo assim a população ter algum benefício sobre o armamento como,
+lutar com o estado caso este decida implementar um ditadura militar ou
+oprimir a população de alguma maneira.
 
 
 ### 3. DEFESA
