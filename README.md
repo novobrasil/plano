@@ -73,7 +73,7 @@ Tempo suficiente para se educar e criar 2, 3 ou 4 gerações de novos cidadão o
    Veja primeiro [*CONTRIBUTORS*](CONTRIBUTORS).
 
    Qualquer um (no Brasil ou no Mundo) pode contribuir.
-   Basta divulgar o trabalho ou criar novos *issues* ou *pull requests*,
+   Basta divulgar o trabalho ou criar novos [*issues*](http://translate.google.com.br/translate?hl=pt-BR&sl=en&u=https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue) ou [*pull requests*](http://translate.google.com.br/translate?hl=pt-BR&sl=en&u=https://docs.github.com/en/github/managing-files-in-a-repository/editing-files-in-another-users-repository),
    sugerindo novas alterações,
    propostas de governo,
    ações que devem e precisam ter tomadas ou discutidas.
